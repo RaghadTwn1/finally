@@ -1,0 +1,8 @@
+﻿Build started at 2:48 AM...
+1>------ Build started: Project: finally, Configuration: Debug x64 ------
+1>finally.cpp
+1>C:\Users\Raghad Alt\OneDrive\Desktop\githubProj\finally.cpp(153,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+1>finally.vcxproj -> C:\Users\Raghad Alt\OneDrive\Desktop\githubProj\x64\Debug\finally.exe
+1>Done building project "finally.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 2:48 AM and took 04.077 seconds ==========
